@@ -18,7 +18,7 @@ No desenvolvimento e manutenção de sistemas e sites, trabalhei com tecnologias
 
 Atualmente estou me aprofundando nos estudos do Angular, Node.js, React, React Native, desenvolvendo e reescrevendo projetos com essas tecnologias para enrriquecer meu portifólio.
 
-<div>
+<div align="center">
 	<a href = "https://wa.me/5542999154343">
 		<img loading="lazy" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
 	</a>
