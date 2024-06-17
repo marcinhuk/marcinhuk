@@ -10,7 +10,7 @@ Lá trabalhei na aquisição de equipamentos, tecnologias e na implantação/adm
  - Bancos de Dados Oracle, MySql, Firebird e SQL Server;
  - Sistemas de Backup (Arcserve e Backup Exec);
  - Servidores de email (Microsoft Exchange);
- - Antivirus McAfee e Bitdefender;
+ - Antivirus (McAfee e Bitdefender);
  - Microsoft Active directory;
  - Firewalls (Fortinet e Sophos).
 
