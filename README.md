@@ -1,8 +1,8 @@
-## Olá 👋
+# Olá 👋
 
-formado em Sistema de Informação estive por quase 20 anos desempenhando funções no setor de TI em uma concessionária de rodovias até chegar ao cargo de gestor.
+formado em Sistema de Informação, estive por quase 20 anos desempenhando funções no setor de TI em uma concessionária de rodovias. Iniciei como estagiário até chegar ao cargo de gestor.
 
-Trabalhei na aquisição de equipamentos, tecnologias e na implantação/administração de sistemas como:
+Lá trabalhei na aquisição de equipamentos, tecnologias e na implantação/administração de sistemas como:
 
  - ERPs (Oracle e Senior Sistemas);
  - HCM (Senior Sistemas);
