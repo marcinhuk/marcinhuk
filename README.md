@@ -30,6 +30,6 @@ I'm working hard to improve my skills using Angular, Node.js, React, React Nativ
 		<img width="36px" src="https://cdn.simpleicons.org/whatsapp"/>
 	</a>
 	<a href="https://marcinhuk.github.io/" target="_blank" >
-		<img width="36px" src="https://cdn.simpleicons.org/github"/>
+		<img width="36px" src="https://cdn.simpleicons.org/github/aaa7a7"/>
 	</a>
 </div>
