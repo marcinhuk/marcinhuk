@@ -23,10 +23,13 @@ I'm working hard to improve my skills using Angular, Node.js, React, React Nativ
 	<a href="https://www.linkedin.com/in/marcinhuk" target="_blank">
 		<img width="36px" src="https://cdn.simpleicons.org/linkedin"/>
 	</a>
-	<a href="mailto:rmarcinhuk@hotmail.com" target="_blank" style="margin: 10px">
+	<a href="mailto:rmarcinhuk@hotmail.com" target="_blank">
 		<img width="36px" src="https://cdn.simpleicons.org/gmail"/>
 	</a>
 	<a href="https://wa.me/5542999154343" target="_blank" >
 		<img width="36px" src="https://cdn.simpleicons.org/whatsapp"/>
+	</a>
+	<a href="https://marcinhuk.github.io/" target="_blank" >
+		<img width="36px" src="https://cdn.simpleicons.org/github"/>
 	</a>
 </div>
