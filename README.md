@@ -21,13 +21,13 @@ I'm working hard to improve my skills using Angular, Node.js, React, React Nativ
 <div align="center">
 	<h2> Contact me:</h2>
 	<a href="https://www.linkedin.com/in/marcinhuk" target="_blank">
-		<img width="36px" src="https://cdn.simpleicons.org/linkedin"/>
+		<img width="36px" src="https://cdn.simpleicons.org/linkedin" hspace="10"/>
 	</a>
 	<a href="mailto:rmarcinhuk@hotmail.com" target="_blank">
 		<img width="36px" src="https://cdn.simpleicons.org/gmail"/>
 	</a>
 	<a href="https://wa.me/5542999154343" target="_blank" >
-		<img width="36px" src="https://cdn.simpleicons.org/whatsapp"/>
+		<img width="36px" src="https://cdn.simpleicons.org/whatsapp" hspace="10"/>
 	</a>
 	<a href="https://marcinhuk.github.io/" target="_blank" >
 		<img width="36px" src="https://cdn.simpleicons.org/github/aaa7a7"/>
