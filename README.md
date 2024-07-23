@@ -6,13 +6,14 @@ I worked on buying equipments, suggesting and implementing technologies and mana
 
  - ERPs (Oracle and Senior Sistemas);
  - HCM (Senior Sistemas);
- - Sistemas Operacionais Windows and Linux;
+ - Operational Systems Windows and Linux;
  - Database server Oracle, MySql, Firebird and SQL Server;;
  - Backup systems (Arcserve and Backup Exec);
  - Email servers (Microsoft Exchange);
  - Antivirus (McAfee and Bitdefender);
  - Microsoft Active directory;
- - Firewalls (Fortinet and Sophos).
+ - Firewalls (Fortinet and Sophos);
+ - Wireless (Ubiquiti).
 
 Regard to development, I started this using Delphi, PHP, Flex and then lately I'm using Javascript, Angular, HTML and CSS.
 
