@@ -6,7 +6,7 @@ I worked on buying equipments, suggesting and implementing technologies and mana
 
  - ERPs (Oracle and Senior Sistemas);
  - HCM (Senior Sistemas);
- - Operational Systems Windows and Linux;
+ - Operational systems Windows and Linux;
  - Database server Oracle, MySql, Firebird and SQL Server;;
  - Backup systems (Arcserve and Backup Exec);
  - Email servers (Microsoft Exchange);
