@@ -20,7 +20,28 @@ Regard to development, I started this using Delphi, PHP, Flex and then lately I'
 I'm working hard to improve my skills using Angular, Node.js, React, React Native, creating new versions of old projects using different technologies.
 
 <div align="center">
-	<h2> Contact me:</h2>
+	<h2>Skills:</h2>
+	<p align="center">
+		<img src="https://skillicons.dev/icons?i=js,ts,php&theme=dark" />
+	</p>
+	<p align="center">
+		<img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
+	</p>
+	<p align="center">
+		<img src="https://skillicons.dev/icons?i=express,react,angular,laravel,next,tailwind,bootstrap,jquery,sass&theme=dark" />
+	</p>
+	<p align="center">
+		<img src="https://skillicons.dev/icons?i=mysql,mongo,postgres&theme=dark" />
+	</p>
+	<p align="center">
+		<img src="https://skillicons.dev/icons?i=git,github,nodejs,docker,figma,md,npm,postman,sequelize&theme=dark" />
+	</p>
+</div>
+
+<br><br>
+
+<div align="center">
+	<h2>Contact me:</h2>
 	<a href="https://www.linkedin.com/in/marcinhuk" target="_blank">
 		<img width="36px" src="https://toolbox.tec.br/assets/images/github/linkedin.svg" hspace="10"/>
 	</a>
