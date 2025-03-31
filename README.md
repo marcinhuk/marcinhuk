@@ -7,7 +7,7 @@ I worked on buying equipments, suggesting and implementing technologies and mana
  - ERPs (Oracle and Senior Sistemas);
  - HCM (Senior Sistemas);
  - Operational systems Windows and Linux;
- - Database server Oracle, MySql, Firebird and SQL Server;;
+ - Database server Oracle, MySql, Firebird and SQL Server;
  - Backup systems (Arcserve and Backup Exec);
  - Email servers (Microsoft Exchange);
  - Antivirus (McAfee and Bitdefender);
@@ -22,15 +22,18 @@ I'm working hard to improve my skills using Angular, Node.js, React, React Nativ
 <div align="center">
 	<h2> Contact me:</h2>
 	<a href="https://www.linkedin.com/in/marcinhuk" target="_blank">
-		<img width="36px" src="https://cdn.simpleicons.org/linkedin" hspace="10"/>
+		<img width="36px" src="https://toolbox.tec.br/assets/images/github/linkedin.svg" hspace="10"/>
 	</a>
+	<br>
 	<a href="mailto:rmarcinhuk@hotmail.com" target="_blank">
-		<img width="36px" src="https://cdn.simpleicons.org/gmail"/>
+		<img width="36px" src="https://toolbox.tec.br/assets/images/github/gmail.svg"/>
 	</a>
+	<br>
 	<a href="https://wa.me/5542999154343" target="_blank" >
-		<img width="36px" src="https://cdn.simpleicons.org/whatsapp" hspace="10"/>
+		<img width="36px" src="https://toolbox.tec.br/assets/images/github/whatsapp.svg" hspace="10"/>
 	</a>
+	<br>
 	<a href="https://marcinhuk.github.io/" target="_blank" >
-		<img width="36px" src="https://cdn.simpleicons.org/github/aaa7a7"/>
+		<img width="36px" src="https://toolbox.tec.br/assets/images/github/github.svg"/>
 	</a>
 </div>
