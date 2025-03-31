@@ -38,7 +38,7 @@ I'm working hard to improve my skills using Angular, Node.js, React, React Nativ
 	</p>
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
 	<h2>Contact me:</h2>
